@@ -15,12 +15,18 @@ Example Input:
 
 Example Output:
 
-> Max nodes in memory is : 1337 
+> Max nodes in memory is : 1337
+
 > Current cost is: 8 Solution is  [4, -3,-1, 5] 
+
 > Used strategy:  a_star_2 
+
 > Expanded 337  nodes 
+
 > Number of nodes stored in memory 1337  nodes 
+
 > Took 0.7859866619110107  seconds to run
+
 
 How to run?
 
