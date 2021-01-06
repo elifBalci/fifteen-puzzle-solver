@@ -2,9 +2,13 @@
 
 This project aims to create a random 15-puzzle with given solution depth and solve it with one of the specified algorithms. Diagonal moves allowed.
 Available algorithms are: 
+
 	- Uniform Cost Search 
+	
 	- A* Search w/heuristic 1
+	
 	- A* Search w/heuristic 2
+	
 
 Heuristic 1 : Number of misplaced tiles
 Heuristic 2: City block distance of tiles to their original positions.
