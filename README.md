@@ -1,5 +1,7 @@
 # fifteen-puzzle-solver
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a00febaccb054b18bb22b1c020ea774a)](https://app.codacy.com/gh/elifBalci/fifteen-puzzle-solver?utm_source=github.com&utm_medium=referral&utm_content=elifBalci/fifteen-puzzle-solver&utm_campaign=Badge_Grade)
+
 This project aims to create a random 15-puzzle with given solution depth and solve it with one of the specified algorithms. Diagonal moves allowed.
 Available algorithms are: 
 
