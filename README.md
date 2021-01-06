@@ -32,3 +32,7 @@ How to run?
 
 > python3 main.py
 
+UML Diagram 
+
+![UML](https://github.com/elifBalci/fifteen-puzzle-solver/blob/main/fifteen_puzzle.jpg)
+
