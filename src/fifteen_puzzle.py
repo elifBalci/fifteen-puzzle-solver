@@ -18,7 +18,7 @@ class FifteenPuzzle:
         for i in range(self.solution_depth):
             position_zero = self.get_position_zero()
             action = self.perform_random_action()
-            print("zero : " + str(position_zero) + " action: " + str(action))
+            print(str(i) + ", zero : " + str(position_zero) + " action: " + str(action))
 
     def swap_tiles(self, position_zero, action):
         position_new = position_zero + action
